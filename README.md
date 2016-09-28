@@ -1,6 +1,6 @@
 # Trapp
 Proyecto de desarrollo de aplicaciones web
 
-yeeee aleeexx
+Cuestionario:
 
-probaaandoo
+Programa javascript para transformar texto de formato aiken a formulario html
