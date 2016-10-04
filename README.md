@@ -17,11 +17,4 @@ D) Ninguna es correcta.</br>
 ANSWER: B
 </p>
 
-El cual transforma
-
-<select name="" id="">
-	<option value="">uno</option>
-	<option value="">dos</option>
-	<option value=""></option>
-	<option value=""></option>
-</select>
+Y lo transforma en un formulario html.
