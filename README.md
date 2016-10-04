@@ -8,13 +8,13 @@ La versión actual está en ALFA. Realiza la siguiente función:
 
 El formato es el siguiente:
 
-<p id="p0">
+
 ¿Qué es el web hosting?</br>
 A) Un tipo de correo electrónico.</br>
 B) Un servicio que provee un sistema para almacenar información vía web.</br>
 C) Un lenguaje de programación.</br>
 D) Ninguna es correcta.</br>
 ANSWER: B
-</p>
+
 
 Y lo transforma en un formulario html.
