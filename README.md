@@ -1,11 +1,11 @@
 # Trapp - Proyecto de desarrollo de aplicaciones web
 
 <h3>¿Para qué sirve?</h3>
-Trapp es un programa escrito en javascript que sirve para transformar texto plano de formato aiken a formulario html
+Trapp es un programa escrito en javascript que sirve para transformar texto plano de formato aiken a cuestionario en html
 
 <h3>Version actual</h3>
 La versión actual está en ALFA. Realiza la siguiente función:</br>
--Transforma en formulario html el texto plano que encuentra dentro de etiquetas P en el código html.
+-Transforma el texto plano (dentro de etiquetas P en el código html) en un cuestionario html.
 
 El formato es el siguiente:
 
@@ -20,4 +20,11 @@ ANSWER: B
 Y lo transforma en un formulario html.
 
 
-<b>Proximas funciones:</b>
+<h3>Proximas funciones:</h3>
+
+<ul>
+<li>Opción de añadir preguntas en el formato especificado mediante un formulario</li>
+<li>Opción de validar el el cuestionario</li>
+<li>Mejorar el diseño con CSS3</li>
+<li>Control de bugs y errores</li>
+</ul>
