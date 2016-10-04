@@ -24,7 +24,7 @@ Y lo transforma en un formulario html.
 
 <ul>
 <li>Opción de añadir preguntas en el formato especificado mediante un formulario</li>
-<li>Opción de validar el el cuestionario</li>
+<li>Opción de validar, corregir y evaluar con nota el cuestionario</li>
 <li>Mejorar el diseño con CSS3</li>
 <li>Control de bugs y errores</li>
 </ul>
