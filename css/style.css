@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+  font-style: verdana;
+}
+
+body{
+  background-color: #fff;
+}
+#wrapper{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#nav{
+  height: 70px;
+  background: linear-gradient(#182932, #182932);
+  padding: 1%;
+}
+#nav ul{
+  text-align: left;
+  display: inline;
+	margin: 0;
+	padding: 15px 4px 17px 0;
+}
+
+#nav ul li{
+  color: white;
+  font: bold 12px/18px sans-serif;
+  display: inline-block;
+  margin-right: -4px;
+  position: relative;
+  padding: 15px 20px;
+}
+
+/*li*/
+
+#leftpanel ul{
+  text-align: left;
+  display: inline;
+	margin: 0;
+	padding: 5px 4px 5px 0;
+}
+
+#leftpanel ul li{
+  color: #2e2e2e;
+  font: bold 12px/18px sans-serif;
+  display:block;
+  margin-right: -4px;
+  position: relative;
+  padding: 4px 20px;
+}
+
+/*Paneles*/
+
+#leftpanel{
+  float: left;
+  right: 25%;
+  width: 19%;
+  height: 600px;
+  background-color: #ffc333;
+}
+
+#centerpanel{
+  float: left;
+  width:60%;
+  background-color: white;
+  padding: 1%;
+}
+
+#rightpanel{
+  float:left;
+  width: 19%;
+  background-color: #e4ee1e;
+}
+
+/*tablas*/
+
+/*inputs*/
+#rightpanel input[type=button] {
+
+		width: 25%;
+		background: linear-gradient(#1c1c1c, #121212);
+		color: white;
+		padding: 10px 10px;
+		margin: 8px 0;
+		border: none;
+		border-radius: 2px;
+		cursor: pointer;
+
+		opacity: 1;
+-webkit-transition: opacity .25s linear;
+-moz-transition: opacity .25s linear;
+	}
+
+#rightpanel input[type=button]:hover {
+		background: linear-gradient(#575757, #1f1f1f);
+		opacity: 0.8;
+	}
+
+/*tipografias*/
