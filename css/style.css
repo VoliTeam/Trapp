@@ -70,7 +70,8 @@ body{
 #rightpanel{
   float:left;
   width: 19%;
-  background-color: #e4ee1e;
+  height: 600px;
+  background-color: #eee;
 }
 
 /*tablas*/
