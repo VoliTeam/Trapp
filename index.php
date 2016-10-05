@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html>
-<?
+<?php
 include 'header.php' ;
 cabecera ( 'Trapp' );
 ?>
 <!-- C?digo HTML de la p?gina -->
-<?
+<?php
 pie ();
 ?>
 <body>
 
 <div id="wrapper">
 
-	<?
+	<?php
 	nav();
 	?>
 

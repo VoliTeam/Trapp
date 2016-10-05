@@ -1,4 +1,4 @@
-<?
+<?php
 function cabecera ( $titulo ){
 ?>
 <head>
@@ -9,16 +9,16 @@ function cabecera ( $titulo ){
 	<title>Trapp</title>
 </head>
 <!-- Código HTML de la cabecera -->
-<?
+<?php
 }
 function pie (){
 ?>
 <!-- Código HTML del pié de página -->
-<?
+<?php
 }
 ?>
 
-<?
+<?php
 function nav (){
 ?>
 <!-- Código HTML del nav de página -->
@@ -30,6 +30,6 @@ function nav (){
 		  <li>Buscar</li>
 		</ul>
 </div>
-<?
+<?php
 }
 ?>
