@@ -7,6 +7,8 @@ Trapp es un programa escrito en HTML, JS y CSS que sirve para transformar texto 
 <h3>Version actual</h3>
 La versión actual está en ALFA. Realiza la siguiente función:</br>
 -Transforma el texto plano (dentro de etiquetas P en el código html) en un cuestionario html.
+-Opción de insertar un nuevo test manualmente.
+-Realizar y validar test.
  
  El formato es el siguiente:
 
@@ -20,7 +22,6 @@ ANSWER: B
  
 Y lo transforma en un formulario html.
  
- 
 <h3>Proximas funciones:</h3>
  
 <ul>
@@ -29,3 +30,13 @@ Y lo transforma en un formulario html.
 <li>Mejorar el diseño con CSS3</li>
 <li>Control de bugs y errores</li>
 </ul>
+
+<h3>Pre v1.0</h3>
+-Header.php
+-Css
+-Formulario
+-javascript
+
+<h3>v1.0</h3> 9-10-2016
+-Se ha añadido la función de crear un test
+-Se ha añadido la función de realizar el test y validarlo
