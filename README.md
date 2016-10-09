@@ -38,5 +38,5 @@ Y lo transforma en un formulario html.
 -javascript
 
 <h3>v1.0</h3> 9-10-2016
--Se ha añadido la función de crear un test
--Se ha añadido la función de realizar el test y validarlo
+-Se ha añadido la función de crear un test</br>
+-Se ha añadido la función de realizar el test y validarlo</br>
