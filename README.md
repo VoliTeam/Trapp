@@ -22,20 +22,20 @@ ANSWER: B
  
 Y lo transforma en un formulario html.
  
-<h3>Proximas funciones:</h3>
- 
-<ul>
-<li>Opción de añadir preguntas en el formato especificado mediante un formulario</li>
-<li>Opción de validar, corregir y evaluar con nota el cuestionario</li>
-<li>Mejorar el diseño con CSS3</li>
-<li>Control de bugs y errores</li>
-</ul>
+
 
 <h3>Pre v1.0</h3>
 -Header.php
 -Css
 -Formulario
 -javascript
+-Proximas funciones:
+<ul>
+<li>Opción de añadir preguntas en el formato especificado mediante un formulario</li>
+<li>Opción de validar, corregir y evaluar con nota el cuestionario</li>
+<li>Mejorar el diseño con CSS3</li>
+<li>Control de bugs y errores</li>
+</ul>
 
 <h3>v1.0</h3> 9-10-2016</br>
 -Se ha añadido la función de crear un test</br>
