@@ -37,6 +37,6 @@ Y lo transforma en un formulario html.
 -Formulario
 -javascript
 
-<h3>v1.0</h3> 9-10-2016
+<h3>v1.0</h3> 9-10-2016</br>
 -Se ha añadido la función de crear un test</br>
 -Se ha añadido la función de realizar el test y validarlo</br>
