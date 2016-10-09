@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php
-include 'header.php' ;
+include 'includes/header.php' ;
 cabecera ( 'Trapp' );
 ?>
 <!-- C?digo HTML de la p?gina -->
@@ -74,7 +74,7 @@ Y lo transforma en un formulario html.
 </div>
 
 <div id="rightpanel">
-			<button type="button" name="button" onclick="generarFormulario();">Transformar</button>
+			e
 </div>
 
 </div>
