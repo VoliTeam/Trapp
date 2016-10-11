@@ -36,8 +36,9 @@ La versión actual está en ALFA. Realiza la siguiente función:</br>
 <li>transform.php --> convert.php</li>
 <li>form.php --> insert.php</li>
 <li>data.php --> test.php</li>
--Se ha reestructurado el conjunto de archivos. Se ha creado una carpeta user_data donde se almacenarán los test que cree el usuario</br>
 </ul>
+-Se ha reestructurado el conjunto de archivos. Se ha creado una carpeta user_data donde se almacenarán los test que cree el usuario</br>
+
 </br>
 <h3>Aclaraciones</h3>
 El formato AIKEN es el siguiente:
