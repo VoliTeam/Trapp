@@ -30,14 +30,15 @@ La versión actual está en ALFA. Realiza la siguiente función:</br>
 -Se ha añadido la función de crear un test</br>
 -Se ha añadido la función de realizar el test y validarlo</br>
 
-<h3>v1.01</h3> 9-10-2016</br>
+<h3>v1.01</h3> 12-10-2016</br>
 -Se ha renombrado los siguientes archivos:</br>
 <ul>
 <li>transform.php --> convert.php</li>
 <li>form.php --> insert.php</li>
 <li>data.php --> test.php</li>
--Se ha reestructurado el conjunto de archovos. Se ha creado una carpeta user_data donde se almacenarán los test que cree el usuario</br>
-
+-Se ha reestructurado el conjunto de archivos. Se ha creado una carpeta user_data donde se almacenarán los test que cree el usuario</br>
+</ul>
+</br>
 <h3>Aclaraciones</h3>
 El formato AIKEN es el siguiente:
 
