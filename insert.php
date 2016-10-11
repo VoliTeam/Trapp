@@ -32,7 +32,7 @@ cabecera ( 'Insertar' );
     $r3 = array();
     $r4 = array();
     $cierta = array();
-    $fp = fopen("test.txt", "r");     //abrimos en modo lectura
+    $fp = fopen("./user_data/test.txt", "r");     //abrimos en modo lectura
     $cont=0;
 
         $linea = fgets($fp);          //guardamos todo el texto en var $linea
@@ -60,7 +60,7 @@ cabecera ( 'Insertar' );
     if(isset($_POST['enviar'])){  //si hemos dado a enviar pregunta, ejecuta esto
       $saltoLinea="\r\n";
 
-        $fp = fopen("test.txt", "a+");
+        $fp = fopen("./user_data/test.txt", "a+");
         $question = $_POST['question'];
         $resp1 = $_POST['answer1'];
         $resp2 = $_POST['answer2'];
