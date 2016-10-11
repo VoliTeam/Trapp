@@ -18,14 +18,28 @@ function pie (){
 }
 ?>
 
+<!--Barra de ubicación-->
+<?php
+function navbar(){
+	?>
+	<div class="navbar_clearfix">
+		Estas aqui
+	</div>
+<?php
+}
+?>
+
+
+<!-- Código HTML del nav de página -->
 <?php
 function nav (){
 ?>
-<!-- Código HTML del nav de página -->
 <div id="nav">
+	<img src="./img/logo.png"/>
 		<ul>
 		  <a href="./index.php"><li>Inicio</li></a>
 		  <a href="./form.php"><li>Crear</li></a>
+		  <a href="./transform.php"><li>Transformar</li></a>
 		  <a href="./cuestionario.php"><li>Realizar</li></a>
 		  <li>Buscar</li>
 		</ul>

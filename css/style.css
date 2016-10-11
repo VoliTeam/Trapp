@@ -16,6 +16,9 @@ body{
   background: linear-gradient(#182932, #182932);
   padding: 1%;
 }
+#nav img{
+  width: 8%;
+}
 #nav ul{
   text-align: left;
   display: inline;
@@ -51,6 +54,13 @@ body{
 }
 
 /*Paneles*/
+
+.navbar_clearfix{
+  border: 1px solid black;
+  width: 100%;
+  float:left;
+  padding:10px;
+}
 
 #leftpanel{
   float: left;
