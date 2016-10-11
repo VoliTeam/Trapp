@@ -1,7 +1,7 @@
 # Trapp - Proyecto de desarrollo de aplicaciones web
 
   
- <h3>¿Para qué sirve?</h3>
+ <h2>¿Para qué sirve?</h2>
 Trapp es un programa escrito en HTML, JS y CSS que sirve para crear cuestionarios o test. Se pueden añadir las preguntas manualmente o tambien se puede transformar texto plano de formato aiken a cuestionario en html.
   
 <h3>Version actual</h3>
@@ -10,19 +10,8 @@ La versión actual está en ALFA. Realiza la siguiente función:</br>
 -Opción de insertar un nuevo test manualmente.
 -Realizar y validar test.
  
- El formato es el siguiente:
 
-¿Qué es el web hosting?</br>
-A) Un tipo de correo electrónico.</br>
-B) Un servicio que provee un sistema para almacenar información vía web.</br>
-C) Un lenguaje de programación.</br>
-D) Ninguna es correcta.</br>
-ANSWER: B
- 
- 
-Y lo transforma en un formulario html.
- 
-
+<h2>Lista de cambios</h2>
 
 <h3>Pre v1.0</h3>
 -Header.php
@@ -40,3 +29,23 @@ Y lo transforma en un formulario html.
 <h3>v1.0</h3> 9-10-2016</br>
 -Se ha añadido la función de crear un test</br>
 -Se ha añadido la función de realizar el test y validarlo</br>
+
+<h3>v1.01</h3> 9-10-2016</br>
+-Se ha renombrado los siguientes archivos:</br>
+<ul>
+<li>transform.php --> convert.php</li>
+<li>form.php --> insert.php</li>
+<li>data.php --> test.php</li>
+-Se ha reestructurado el conjunto de archovos. Se ha creado una carpeta user_data donde se almacenarán los test que cree el usuario</br>
+
+<h3>Aclaraciones</h3>
+El formato AIKEN es el siguiente:
+
+¿pregunta?</br>
+A) respuesta 1.</br>
+B) respuesta 2.</br>
+C) respuesta 3.</br>
+D) respuesta 4.</br>
+ANSWER: B
+ 
+ 
