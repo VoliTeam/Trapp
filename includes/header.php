@@ -4,9 +4,9 @@ function cabecera ( $titulo ){
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script type="text/javascript" src="js/script.js"></script>
+  	<script type="text/javascript" src="js/script.js"></script>
 	<link rel="stylesheet" href="./css/style.css">
-	<title>Trapp</title>
+	<title><?php $titulo ?></title>
 </head>
 <!-- Código HTML de la cabecera -->
 <?php
@@ -38,8 +38,8 @@ function nav (){
 	<img src="./img/logo.png"/>
 		<ul>
 		  <a href="./index.php"><li>Inicio</li></a>
-		  <a href="./form.php"><li>Crear</li></a>
-		  <a href="./transform.php"><li>Transformar</li></a>
+		  <a href="./insert.php"><li>Crear</li></a>
+		  <a href="./convert.php"><li>Transformar</li></a>
 		  <a href="./cuestionario.php"><li>Realizar</li></a>
 		  <li>Buscar</li>
 		</ul>

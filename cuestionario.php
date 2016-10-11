@@ -67,7 +67,7 @@ cabecera ( 'Trapp' );
           $r4 = array();
           $cierta;
           $cierta = array();
-          $fp = fopen("data.txt", "r");     //abrimos en modo lectura
+          $fp = fopen("./user_data/test.txt", "r");     //abrimos en modo lectura
           $cont=0;
 
 
@@ -105,7 +105,7 @@ cabecera ( 'Trapp' );
       $r4 = array();
       $cierta;
       $cierta = array();
-      $fp = fopen("data.txt", "r");     //abrimos en modo lectura
+      $fp = fopen("./user_data/test.txt", "r");     //abrimos en modo lectura
       $cont=0;
 
 
